@@ -9,7 +9,7 @@
 ![example](https://github.com/theoclark/sign_language/blob/main/example.gif)
 
 ### 2. App to convert landscape photos into Monet style paintings using CycleGAN.
-[**Repo**](https://github.com/theoclark/Monet-PyTorch-CycleGAN) | [**Blog**](https://theoclark.co.uk/posts/cycle-gan.html)|[**Try it**](http://monet.theoclark.co.uk/)
+[**Repo**](https://github.com/theoclark/Monet-PyTorch-CycleGAN) | [**Blog**](https://theoclark.co.uk/posts/cycle-gan.html) | [**Try it**](http://monet.theoclark.co.uk/)
 
 ![samples](https://github.com/theoclark/Monet-PyTorch-CycleGAN/blob/main/SampleImages.png)
 

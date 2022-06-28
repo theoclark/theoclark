@@ -4,7 +4,7 @@
 ### Recent projects:
 
 ### 1. App to read the American Sign Language alphabet.
-[**Repo**](https://github.com/theoclark/sign-language) | [**Blog**](https://theoclark.co.uk/posts/sign-language.html)
+[**Repo**](https://github.com/theoclark/sign-language) | [**Blog**](https://theoclark.co.uk/posts/sign-language.html) | [**Dataset**](https://drive.google.com/file/d/1I35bpJ4ck3nDT1SzEs-6DqmJR7CtcA3Q/view?usp=sharing)
 
 ![example](https://github.com/theoclark/sign_language/blob/main/example.gif)
 

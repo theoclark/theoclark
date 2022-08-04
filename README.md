@@ -6,7 +6,7 @@
 ### 1. Build a Neural Net from scratch in Numpy.
 [**Repo**](https://github.com/theoclark/numpy-neural-net) | [**Blog**](https://theoclark.co.uk/posts/neural-networks-from-scratch.html)
 
-![example](https://github.com/theoclark/theoclark.github.io/blob/main/nnn_icon.gif)
+![example](https://github.com/theoclark/theoclark.github.io/blob/main/images/nnn_icon.gif)
 
 ### 2. App to read the American Sign Language alphabet.
 [**Repo**](https://github.com/theoclark/sign-language) | [**Blog**](https://theoclark.co.uk/posts/sign-language.html)

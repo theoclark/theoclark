@@ -1,7 +1,7 @@
 ## Hi, I’m Theo Clark
-#### I’m interested in Deep Learning.
+#### I’m a Machine Learning Engineer at [Speechmatics](https://www.speechmatics.com/).
 #### You can check out my blog [here](https://theoclark.co.uk/).
-### Recent projects:
+### Recent personal projects:
 
 ### 1. Build a Neural Net from scratch in Numpy.
 [**Repo**](https://github.com/theoclark/numpy-neural-net) | [**Blog**](https://theoclark.co.uk/posts/neural-networks-from-scratch.html)
